@@ -1,0 +1,14 @@
+.changecolor{
+    width: 100%;
+    height: auto;
+    margin: 0px auto;
+    border: 1px solid;
+    text-align: center;
+    padding-top: 20px;
+}
+.box{
+    width: 250px;
+    height: 250px;
+    border: 1px solid;
+    margin: 30px auto;
+}
